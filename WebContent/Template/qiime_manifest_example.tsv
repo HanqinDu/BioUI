@@ -1,0 +1,9 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+C1	C1_R1.fq.gz	C1_R2.fq.gz
+C2	C2_R1.fq.gz	C2_R2.fq.gz
+C3	C3_R1.fq.gz	C3_R2.fq.gz
+J1	J1_R1.fq.gz	J1_R2.fq.gz
+J2	J2_R1.fq.gz	J2_R2.fq.gz
+J3	J3_R1.fq.gz	J3_R2.fq.gz
+P1	P1_R1.fq.gz	P1_R2.fq.gz
+P2	P2_R1.fq.gz	P2_R2.fq.gz

@@ -1,0 +1,6 @@
+SampleID	SampleName	Host
+#q2:types	categorical	categorical
+sample-1	P1	Pig
+sample-2	P2	Pig
+sample-3	C1	Cow
+sample-4	C2	Cow
